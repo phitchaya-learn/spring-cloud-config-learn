@@ -1,0 +1,7 @@
+spring:
+      config:
+        activate:
+          on-profile: prod
+environment: cloud config production
+greeting: hello from cloud config production
+foo: bar
