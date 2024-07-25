@@ -1,0 +1,7 @@
+spring:
+      config:
+        activate:
+          on-profile: dev
+environment: cloud config development
+greeting: hello from cloud config dev
+foo: bar
